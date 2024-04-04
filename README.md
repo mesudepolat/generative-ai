@@ -1,7 +1,7 @@
-## Generative AI Practice
+# Generative AI Practice
 
-# 1. Audio Generation
-# 2. Code Generation
-# 3. Image Generation
-# 4. Streamlit Practice
-# 5. Text Generation
+## 1. Audio Generation
+## 2. Code Generation
+## 3. Image Generation
+## 4. Streamlit Practice
+## 5. Text Generation
